@@ -1,0 +1,18 @@
+### * Student Report Card System*  
+*Description*: A system to manage student grades and performance.  
+
+#### Features:  
+- *Admin Panel*:  
+  - Add, update, and delete student records.  
+  - Assign subjects to students.  
+- *Marks Management*:  
+  - Input marks for exams.  
+  - Calculate total marks and grades based on pre-defined criteria.  
+- *Reports*:  
+  - Generate report cards for individual students.  
+  - View overall class performance.  
+
+#### Database Tables:  
+- students: Store student details.  
+- subjects: Store subject information.  
+- marks: Store marks for each subject and student.  
